@@ -1,6 +1,5 @@
 # stock-prediction
 
-# First (software)
 
 linux (ubuntu) + centos-7.iso
 
@@ -8,21 +7,17 @@ open linux create name: centos & memory size 8096 $$ 20GB
 
 setting add 4 CPU & 
 
-詳細設定請參考以下連結
 
-https://courses.openedu.tw/courses/course-v1:5GMB+SP+20020/courseware/3fe2b360d97549d5b54cb00efae59001/411bb71405034252b9ebdbaf484882a9/?activate_block_id=block-v1%3A5GMB%2BSP%2B20020%2Btype%40sequential%2Bblock%40411bb71405034252b9ebdbaf484882a9
 
-https://github.com/xxionhong/network_slice/tree/main/experiment_4
 
-and connect with cmd 
 #cmd
 
 ```sh
-ssh root@xxx.xxx.xxx.xxx
+pip install matplotlib
 ```
 
 ```sh
-systemctl stop firewalld
+pip install pandas
 ```
 
 ```sh
